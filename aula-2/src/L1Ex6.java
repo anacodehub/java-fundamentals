@@ -4,8 +4,6 @@ public class L1Ex6 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-
-
         System.out.print("Informe um número: ");
         if(input.hasNextInt()) {
             int numero = input.nextInt();
