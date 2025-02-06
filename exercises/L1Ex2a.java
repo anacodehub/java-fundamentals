@@ -1,3 +1,5 @@
+package exercises;
+
 public class L1Ex2a {
 
     public static void main(String[] args) {

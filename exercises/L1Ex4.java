@@ -1,4 +1,4 @@
-import jdk.jfr.Experimental;
+package exercises;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-/*
+package exercises;/*
 Descrição do exercício 2:
 
 Faça um fluxograma e um programa utilizando a linguagem Java que imprima

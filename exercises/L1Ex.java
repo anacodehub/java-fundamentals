@@ -1,4 +1,4 @@
-/*
+package exercises;/*
 Descrição do exercício:
 1. Faça um fluxograma e um programa utilizando a linguagem Java
 que imprima a média aritmética de duas notas. Obs. Utilize o tipo
@@ -27,7 +27,7 @@ public class L1Ex {
         System.out.print("\n");
 
         // Entrada de dados manual
-        System.out.print("Digite a primeira nota: ");
+        System.out.print("Digite a segunda nota: ");
         score2 = read.nextFloat();
 
         System.out.print("\n");

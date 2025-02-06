@@ -1,4 +1,4 @@
-/*
+package aulas;/*
 * Descrição: Programa para teste de impressão de texto através
 * do comando System.out.print();
 *

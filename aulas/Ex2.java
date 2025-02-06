@@ -1,3 +1,5 @@
+package aulas;
+
 import java.util.Scanner;
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
