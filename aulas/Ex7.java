@@ -1,14 +1,13 @@
 /*
-CLASSIFICAÇÃO DE IDADE POR CATGOERIA ESPORTIVA
+CALCULO DE IMPOSTO DE RENDA
 
-Um clube esportivo deseja classificar seus atletas com base na idade.
+O governo precisa calcular i importo de renda de um cidadão com base nos seguintes critérios
 
-As categorias são:
-    - Infantil:> até 12 anos
-    - Juvenil: de 13 a 17 anos
-    = Adulto: de 18 a 48 anos
-    - Master: acima de 40 anos
- */
+- Renda de até 2K -> Isento
+- Renda de 20021 a 5000 -> 10% de imposto
+- Renda de 5001 a 10001 -> 20% de imposto
+- Renda acima de 10001 -> 30% de imposto 
+*/
 
 public class Ex7 {
     public static void main(String[] args) {
